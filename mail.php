@@ -19,7 +19,7 @@ The real question is why I can't read the director when I can call cgi-bin
   <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
   <meta name="author" content="Andy Schlei"/>
   <meta name="keywords" content="private" />
-  <meta name="verify-v1" content="S+lOz0Igaiocr8Kehp+U7u78sudkVtu0lbNPGahmhxU=" />
+ 
   <title>Observatorio de la Ballona</title>
 
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>

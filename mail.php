@@ -11,6 +11,7 @@
 | COPYRIGHT + free use if this notice is kept in place    |
 |_________________________________________________________|
 
+The real question is why I can't read the director when I can call cgi-bin
 -->
 
 <head>
